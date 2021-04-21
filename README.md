@@ -7,7 +7,7 @@ In your package Manifest.json make sure to add:
     "com.facepunch.steamworks": "2.2.1"
     
 And:
-,
+
   "scopedRegistries": [
     {
       "name": "Hourai Teahouse",
