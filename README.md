@@ -3,7 +3,7 @@ Drop these files in your Unity project to access Backroll without importing it a
 
 In your package Manifest.json make sure to add:
 
-
+```
   "dependencies": {
     "com.discord.game-sdk": "3.1.0",
     "com.facepunch.steamworks": "2.2.1"
@@ -19,7 +19,7 @@ In your package Manifest.json make sure to add:
       ]
     }
   ]
-
+```
   
 
 and you should be good!
